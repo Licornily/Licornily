@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning cybersecurity
+- 🌱 Noobie pentester
+- ✔️ OSCP 
 
 <img width="300px" src="https://user-images.githubusercontent.com/68731560/180169808-0f05ff36-b723-4a1a-93b4-379cccca9c3b.gif"/>
 
